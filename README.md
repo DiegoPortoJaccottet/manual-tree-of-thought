@@ -4,7 +4,9 @@
 
 Tree-of-Thought (ToT) is said to enhance AI/LLM results by up to about 10x (According to: https://arxiv.org/abs/2305.10601). 
 
-A similar repository to this one with comparison to the previous best method (Chain-of-Thought): https://github.com/dave1010/tree-of-thought-prompting
+A similar repository to this one with comparison to the previous best method (Chain-of-Thought): https://github.com/dave1010/tree-of-thought-prompting 
+
+Chain-of-Thought can also be achieved by providing Q/A examples to show the manner/kind of steps by which the LLM should find the result, as in: https://arxiv.org/pdf/2201.11903.pdf
 
 This repository explores Tree-of-Thought prompting without using code to keep track of the nodes (asking the LLM to do this by itself).
 
