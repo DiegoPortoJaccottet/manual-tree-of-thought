@@ -8,6 +8,8 @@ A similar repository to this one with comparison to the previous best method (Ch
 
 This repository explores Tree-of-Thought prompting without using code to keep track of the nodes (asking the LLM to do this by itself).
 
+In my experiments, sometimes I've achieved better results with Anthropic rather than OpenAI. 
+
 ## Usage
 
 ### Step 1
@@ -16,7 +18,7 @@ The first step is to prompt the LLM to do a task n amount of times:
 
     Try to do [task] n times.
 
-An example:
+An example: Breadth
 
     Try to explain the meaning of life 3 times.
     
@@ -24,7 +26,7 @@ The number n depends on the size of the search space. As in, searching for a new
 
 https://github.com/dave1010/tree-of-thought-prompting attempts to enhance this method by asking the AI to take the role of multiple experts. One could also ask the LLM to list which experts would be most relevant to answer such question, and answering as each one of them.
 
-### Step 2
+### Step 2: Depth
 
 The second step is to choose a branch and explore it. This can be repeated for all previous attempts, or just for the best ones. Such as:
 
@@ -36,7 +38,7 @@ Or:
 
 Like this, one is creating the tree. 
 
-### Step 3
+### Step 3: Evaluation/Backtracking
 
 The third step is to backtrack, using the LLM to compare all results. 
 
