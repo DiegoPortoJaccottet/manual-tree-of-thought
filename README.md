@@ -33,11 +33,14 @@ The second step is to choose a branch and explore it. This can be repeated for a
 Or:
 
     Choose the best 2 tries and improve each 3 times. 
-    
+
+Like this, one is creating the tree. 
+
 ### Step 3
 
 The third step is to backtrack, using the LLM to compare all results. 
 
     From all your first and improved tries, pick the best one. 
     
-    
+One can copy this result and paste it into a new chat with the LLM to create a new tree, perhaps asking to check for flaws and to solve these flaws. 
+
