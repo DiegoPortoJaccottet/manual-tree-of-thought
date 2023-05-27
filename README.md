@@ -44,5 +44,5 @@ The third step is to backtrack, using the LLM to compare all results.
 
     From all your first and improved tries, pick the best one. 
     
-One can copy this result and paste it into a new chat with the LLM to create a new tree, perhaps asking to check for flaws and to solve these flaws. 
+One can copy this result and paste it into a new chat to create a new tree, perhaps asking to check for flaws and to solve these flaws. 
 
