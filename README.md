@@ -12,13 +12,13 @@ In my experiments, sometimes I've achieved better results with Anthropic rather 
 
 ## Usage
 
-### Step 1
+### Step 1: Breadth
 
 The first step is to prompt the LLM to do a task n amount of times:
 
     Try to do [task] n times.
 
-An example: Breadth
+An example:
 
     Try to explain the meaning of life 3 times.
     
