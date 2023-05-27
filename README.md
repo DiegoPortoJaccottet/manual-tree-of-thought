@@ -36,7 +36,7 @@ Or:
 
     Choose the best 2 tries and improve each 3 times. 
 
-Like this, one is creating the tree. 
+Like this, one is creating the tree. Repeat this prompt an arbitrary number of times. 
 
 ### Step 3: Evaluation/Backtracking
 
