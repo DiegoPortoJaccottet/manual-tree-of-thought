@@ -8,7 +8,7 @@ A similar repository to this one with comparison to the previous best method (Ch
 
 This repository explores Tree-of-Thought prompting without using code to keep track of the nodes (asking the LLM to do this by itself).
 
-In my experiments, sometimes I've achieved better results with Anthropic rather than OpenAI. 
+In my experiments, sometimes I've achieved better results with Anthropic (Claude) rather than OpenAI. 
 
 ## Usage
 
