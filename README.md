@@ -53,3 +53,5 @@ One can copy this result and paste it into a new chat to create a new tree, perh
 [//]: # (Add reflection and self-criticism.)
 [//]: # (Add divide and unite.)
 [//]: # (Add stunts.)
+[//]: # (Mix chain-of-thought.)
+[//]: # (Mix ReAct.)
