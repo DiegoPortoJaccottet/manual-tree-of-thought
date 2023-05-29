@@ -30,7 +30,7 @@ https://github.com/dave1010/tree-of-thought-prompting attempts to enhance this m
 
 ### Step 2: Depth
 
-The second step is to choose a branch and explore it. This can be repeated for all previous attempts, or just for the best ones. Such as:
+The second step is to choose a branch(es) and explore it. This can be repeated for all previous attempts, or just for the best ones. Such as:
 
     Choose the best try and improve it 3 times. 
     
