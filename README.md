@@ -49,3 +49,6 @@ The third step is to backtrack, using the LLM to compare all results.
 One can copy this result and paste it into a new chat to create a new tree, perhaps asking to check for flaws and to solve these flaws. 
 
 [//]: # (If this work has benefited you or you wish to contribute to its advance, please consider donating.)
+[//]: # (Add describe steps.)
+[//]: # (Add reflection and self-criticism.)
+[//]: # (Add divide and unite.)
