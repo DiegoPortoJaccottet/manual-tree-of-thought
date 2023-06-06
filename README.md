@@ -57,5 +57,5 @@ Limitations: Doesn't work all the time. Not all LLMs don't understand what is be
 [//]: # (Add stunts.)
 [//]: # (Mix chain-of-thought.)
 [//]: # (Mix ReAct.)
-[//]: # (Add "distinct" to avoid repetitions. )
+[//]: # (Add "distinct" to avoid repetitions. Or "Unique".)
 [//]: # (Add https://www.youtube.com/watch?v=j320H2LFx-U as reference for similar approach)
